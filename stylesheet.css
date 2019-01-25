@@ -1,0 +1,11 @@
+.protected {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(0,255,0,0.7);
+}
+
+.unprotected {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(255,0,0,0.7);
+}
